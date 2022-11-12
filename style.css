@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+a:active{
+  background-color: blueviolet;
+  color:lightblue;
+}
+
+a:hover{
+  background-color:lightcoral;
+  color:aqua
+}
+h1, a{
+color:white;
+
+}
+
+main{
+  text-align:center;
+  width:75%;
+  margin-right:auto;
+  margin-left:auto;
+  line height: 25px;
+}
+main{
+font-size: 35px;
+}
