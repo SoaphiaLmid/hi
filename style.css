@@ -1,6 +1,9 @@
 html, body {
   height: 100%;
   width: 100%;
+    background-image:url("https://miro.medium.com/max/1200/1*9IIoxOcIbhMFFKMCI2ncuQ.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 a:active{
