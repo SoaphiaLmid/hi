@@ -1,7 +1,7 @@
 html, body {
-  height: 100%;
-  width: 100%;
-    background-image:url("https://miro.medium.com/max/1200/1*9IIoxOcIbhMFFKMCI2ncuQ.jpeg");
+  height: auto-flow;
+  width: auto-flow;
+    background-image:url("https://news.medill.northwestern.edu/chicago/wp-content/uploads/sites/3/2017/11/Yvaine-Ocean2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -12,8 +12,8 @@ a:active{
 }
 
 a:hover{
-  background-color:lightcoral;
-  color:aqua
+  background-color:cornflowerblue;
+  color:mintcream 
 }
 h1, a{
 color:white;
@@ -29,4 +29,30 @@ main{
 }
 main{
 font-size: 35px;
+}
+
+.top a{
+  padding:10px;
+  margin:10px;
+}
+
+.top{
+  background-color:mediumaquamarine;
+  margin:0px;
+  text-align: left;
+  display: block;
+  height:10vh;
+  width:100vw;
+}
+
+ul{
+line-height:320%
+}
+table,th,td{
+  border-collapse:collapse;
+  border: 2px lightblue solid;
+ text-align: center;
+color:ghostwhite
+  
+
 }
